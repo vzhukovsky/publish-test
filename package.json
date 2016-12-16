@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\"",
     "prepublish": "grunt prepublish"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vzhukovsky/publish-test.git"
+  }
   "author": "",
   "license": "ISC"
 }
