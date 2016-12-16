@@ -1,10 +1,11 @@
 {
-  "name": "publish-test",
+  "name": "publish-test-js",
   "version": "4.3.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "echo \"Error: no test specified\"",
+    "prepublish": "grunt prepublish"
   },
   "author": "",
   "license": "ISC"
