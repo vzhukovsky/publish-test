@@ -12,5 +12,8 @@
     "url": "https://github.com/vzhukovsky/publish-test.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
 }
